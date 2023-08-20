@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @artie290
 - 👀 I’m interested in building web applications
-- 🌱 I’m currently learning front end development
+- 🌱 I’m currently working on front end development projects
 - 💞️ I’m looking to collaborate on react projects
 - 📫 DM me
 
